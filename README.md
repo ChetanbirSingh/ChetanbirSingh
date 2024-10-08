@@ -2,7 +2,7 @@
 
 ## 🏄‍♂️ About Me
 - **Current Status**: Web development student at the University of Alberta
-- **Focus: Learning**: full-stack web development
+- **Focus**: Learning full-stack web development
 - **Recent Graduate**: Completed high school in 2024.
 - **Freelancing**: Gained valuable experience as a freelance front-end web developer while attending high school
 - **Future Goals**: Aspiring to build innovative web applications
