@@ -1,5 +1,7 @@
 # Hello, I'm Chetanbir Singh 👋
 
+![Codewars Badge](https://www.codewars.com/users/chetanbirsingh/badges/large)
+
 ## 🏄‍♂️ About Me
 - **Current Status**: Web development student at the University of Alberta
 - **Focus**: Learning full-stack web development
