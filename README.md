@@ -1,10 +1,10 @@
 # Hello, I'm Chetanbir Singh 👋
 
 ## 🏄‍♂️ About Me
+- **The Journey**: Started coding in 11th grade summer, turning a passion into hands-on experience.
 - **Current Status**: Web development student at the University of Alberta
 - **Focus**: Learning full-stack web development
 - **Recent Graduate**: Completed high school in 2024.
-- **Freelancing**: Gained valuable experience as a freelance front-end web developer while attending high school
 - **Future Goals**: Aspiring to build innovative web applications
 
 ## 🧑‍💻 Hobbies
