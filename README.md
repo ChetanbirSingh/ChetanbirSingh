@@ -2,10 +2,10 @@
 
 ## 🏄‍♂️ About Me
 - **The Journey**: Started coding in 11th grade summer, turning a passion into hands-on experience.
-- **Current Status**: Web development student at the University of Alberta
-- **Focus**: Learning full-stack web development
+- **Current Status**: Web development student at the University of Alberta.
+- **Focus**: Learning full-stack web development.
 - **Recent Graduate**: Completed high school in 2024.
-- **Future Goals**: Aspiring to build innovative web applications
+- **Future Goals**: Aspiring to build innovative web applications.
 
 ## 🧑‍💻 Hobbies
 - Enjoy playing video games
