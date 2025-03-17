@@ -8,9 +8,8 @@
 - **Future Goals**: Aspiring to build innovative web applications.
 
 ## 🧑‍💻 Hobbies
-- Enjoy playing video games
-- Always learning new technologies and skills
 - Reading about latest tech trends
+- Always learning new technologies and skills
 
 ## 🎓 Certifications
 - [freeCodeCamp - Responsive Web Design Certification](https://www.freecodecamp.org/certification/chetanbirsingh/responsive-web-design)
