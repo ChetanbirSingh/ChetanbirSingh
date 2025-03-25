@@ -1,4 +1,4 @@
-# Hello, I'm Chetanbir Singh 👋
+# Hello, I'm Chetanbir 👋
 
 ## 🏄‍♂️ About Me
 - **The Journey**: Started coding when i was 16, turning a passion into hands-on experience.
