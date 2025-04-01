@@ -1,11 +1,8 @@
 # Hello, I'm Chetanbir 👋
 
 ## 🏄‍♂️ About Me
-- **The Journey**: Started coding when i was 16, turning a passion into hands-on experience.
-- **Current Status**: Web development student at the University of Alberta.
-- **Focus**: Learning full-stack web development.
-- **Recent Graduate**: Completed high school in 2024.
-- **Future Goals**: Aspiring to build innovative web applications.
+"Started my tech journey at 16 and currently a web development student at the University of Alberta, focusing on full-stack development.
+Recently graduated high school in 2024 and passionate about building innovative web applications.
 
 ## 🧑‍💻 Hobbies
 - Reading about latest tech trends
