@@ -1,7 +1,7 @@
 # Hello, I'm Chetanbir 👋
 
 ## 🏄‍♂️ About Me
-"Started my tech journey at 16 and currently a web development student at the University of Alberta, focusing on full-stack development.
+Started my tech journey at 16 and currently a web development student at the University of Alberta, focusing on full-stack development.
 Recently graduated high school in 2024 and passionate about building innovative web applications.
 
 ## 🧑‍💻 Hobbies
