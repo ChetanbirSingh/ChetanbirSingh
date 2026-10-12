@@ -1,5 +1,5 @@
 # Hello, I'm Chetanbir 👋
-[![Portfolio](https://img.shields.io/badge/Portfolio-chetanbir-black?style=for-the-badge&logo=vercel)]((https://chetanbir.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-chetanbir-black?style=for-the-badge&logo=vercel)](https://chetanbir.vercel.app/)
 
 ## 🏄‍♂️ About Me
 Started my tech journey at 16 and currently a web development student at the University of Alberta, focusing on full-stack development.
